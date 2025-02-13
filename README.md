@@ -24,8 +24,7 @@ Para executar os scripts deste repositório, é recomendável ter:
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/aws-scripts.git
-   cd aws-scripts
+   git clone https://github.com/Patrick-Jabba/AWS-Scripts
    ```
 
 2. Configure suas credenciais da AWS:
@@ -64,7 +63,7 @@ Sinta-se à vontade para contribuir enviando pull requests com melhorias e novos
 
 ## 👤 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido por [Seu Nome](https://github.com/Patrick-Jabba).
 
 ## 🛡️ Licença
 
