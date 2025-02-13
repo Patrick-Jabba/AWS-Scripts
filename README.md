@@ -63,7 +63,7 @@ Sinta-se à vontade para contribuir enviando pull requests com melhorias e novos
 
 ## 👤 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/Patrick-Jabba).
+Desenvolvido por https://github.com/Patrick-Jabba
 
 ## 🛡️ Licença
 
